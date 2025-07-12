@@ -21,9 +21,7 @@ _Unlock Legal Insights with Intelligent Precision_
   - [💻 Usage](#-usage)
 - [🧪 Testing](#-testing)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-
+- [🤝 References](#-references)
 ---
 
 ## ✨ Overview
@@ -92,8 +90,8 @@ Before installation, ensure your system meets these requirements:
 - **Python 3.10 or higher** ([Download Python](https://www.python.org/downloads/))
 - **Ollama** installed for local LLM execution ([Installation Guide](https://ollama.com/))
 - **Git** for version control ([Git Downloads](https://git-scm.com/downloads))
-- **4GB+ RAM** for optimal performance
-- **5GB+ free disk space** for models and vector stores
+- **RAM** for optimal performance
+- **Free disk space** for models and vector stores
 
 ---
 
@@ -210,3 +208,36 @@ This tool provides informational support only. For official matters:
 1. 🔄 Regular document updates
 2. ✔️ Output validation mechanisms  
 3. ⚖️ Professional legal review
+```
+
+## 📚 References
+
+### Legal Source
+- **Primary Document**:  
+  _Basic Laws and Authorities of the National Archives and Records Administration (2016 Edition)_  
+  Acquired via public access channels from [NARA](https://www.archives.gov/)
+
+### Technology Stack
+| Component | Purpose |
+|-----------|---------|
+| [LangChain](https://python.langchain.com) | AI orchestration framework |
+| [Ollama](https://ollama.ai) | Local LLM execution |
+| [HuggingFace](https://huggingface.co) | Embedding models |
+| [Streamlit](https://streamlit.io) | Web interface |
+
+### Disclaimer Notice
+```text
+This assistant provides informational support only and does not constitute legal advice. 
+Content is derived from publicly available documents. The developer claims no legal 
+authority or ownership over referenced materials.
+```
+
+## 🚀 Powered By
+
+<div align="center">
+  <a href="https://python.langchain.com"><img src="https://img.shields.io/badge/LangChain-FF6B4D?style=for-the-badge&logo=langchain&logoColor=white" height="30"></a>
+  <a href="https://github.com/facebookresearch/faiss"><img src="https://img.shields.io/badge/FAISS-00B4D8?style=for-the-badge&logo=facebook&logoColor=white" height="30"></a>
+  <a href="https://ollama.ai"><img src="https://img.shields.io/badge/Ollama-7C3AED?style=for-the-badge&logo=ollama&logoColor=white" height="30"></a>
+  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30"></a>
+  <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30"></a>
+</div>
