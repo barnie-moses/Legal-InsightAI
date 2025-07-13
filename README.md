@@ -36,7 +36,7 @@ The system combines cutting-edge technologies:
 
 ---
 ## 🎬 Demo
-[Click to watch a Demo](./assets/demo.mp4)
+[Click to watch a Demo](/assets/demo.mp4)
 
 
 ## 🔧 Features
