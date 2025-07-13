@@ -13,6 +13,7 @@ _Unlock Legal Insights with Intelligent Precision_
 ## 📖 Table of Contents
 
 - [✨ Overview](#-overview)
+- [🎬 Demo](#-overview)
 - [🔧 Features](#-features)
 - [📂 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
@@ -34,6 +35,9 @@ The system combines cutting-edge technologies:
 - Large Language Models (LLMs) for precise answer generation
 
 ---
+## 🎬 Demo
+[Click to watch a Demo](./assets/demo.mp4)
+
 
 ## 🔧 Features
 
